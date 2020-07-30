@@ -1,3 +1,3 @@
 # docker-fun
 
-Just a place to chuck stuff while I learn docker and github
+# Just a place to experiment with some stuff while I learn docker and github
